@@ -9,7 +9,7 @@ console.log("brand name : " + brandname  + ',' + "number_of_prouduct : "+ number
 
 if (number_of_prouduct <=10){
     console.log('the product is modern');
-
+    document.write("<h1>the product is modern</h1>")
 
 }
 else{
