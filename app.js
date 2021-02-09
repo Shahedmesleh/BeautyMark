@@ -1,4 +1,5 @@
 console.log("class 4");
+
 var brandname =prompt("what the name of brand name MAC or NARS");
 var number_of_prouduct = prompt("what the number of prouduct");
 var isbrandfound= prompt("is the brand found");
@@ -10,6 +11,7 @@ console.log("brand name : " + brandname  + ',' + "number_of_prouduct : "+ number
 if (number_of_prouduct <=10){
     console.log('the product is modern');
     document.write("<h1>the product is modern</h1>")
+    alert('the product is modern');
 
 }
 else{
