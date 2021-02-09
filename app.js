@@ -27,8 +27,6 @@ var num_of_brand= prompt("what is number of brand");
  }
  
 document.write(result);
-
-
 }
 getBrandName();
 
