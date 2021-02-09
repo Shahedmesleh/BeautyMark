@@ -1,4 +1,5 @@
-console.log("class 4");
+function getNumBauty(){
+    console.log("class 4");
 
 var brandname =prompt("what the name of brand name MAC or NARS");
 var number_of_prouduct = prompt("what the number of prouduct");
@@ -48,3 +49,5 @@ var num_of_brand= prompt("what is number of brand");
  }
  
 document.write(result);
+}
+getNumBauty();
